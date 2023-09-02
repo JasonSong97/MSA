@@ -15,3 +15,7 @@
 #### c. MSA의 핵심원칙
 
 [배운 내용 정리](https://velog.io/@jaegeunsong_1997/MSA-3-MSA%EC%9D%98-%ED%95%B5%EC%8B%AC%EC%9B%90%EC%B9%99)
+
+#### d. MSA의 단점
+
+[배운 내용 정리]()
