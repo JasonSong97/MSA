@@ -18,4 +18,4 @@
 
 #### d. MSA의 단점
 
-[배운 내용 정리]()
+[배운 내용 정리](https://velog.io/@jaegeunsong_1997/MSA-4-MSA%EC%9D%98-%EB%8B%A8%EC%A0%90)
