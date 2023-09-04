@@ -1,5 +1,10 @@
 # MSA 공부✏️
 
+## 배운 기술🛠️
+
+- BackEnd
+- Devops
+
 ## MSA 일지📝
 
 ### 1. Why MSA
@@ -19,3 +24,9 @@
 #### d. MSA의 단점
 
 [배운 내용 정리](https://velog.io/@jaegeunsong_1997/MSA-4-MSA%EC%9D%98-%EB%8B%A8%EC%A0%90)
+
+### 2. MSA로 전환하기
+
+#### a. MSA로의 전환
+
+[배운 내용 정리](https://velog.io/@jaegeunsong_1997/MSA-2.1-MSA%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0)
