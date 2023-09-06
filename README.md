@@ -30,3 +30,5 @@
 #### a. MSA로의 전환
 
 [배운 내용 정리](https://velog.io/@jaegeunsong_1997/MSA-2.1-MSA%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0)
+
+#### b. 소프트웨어 아키텍처
